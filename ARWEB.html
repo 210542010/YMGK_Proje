@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furkan Yağlı AR Projesi</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            background-image: url('https://cdn.yemek.com/mnresize/1250/833/uploads/2020/10/elmali-turta-tarifi-yemekcom.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+
+        .hero {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+            font-size: 32px;
+            text-align: center;
+        }
+
+        .hero h1 {
+            margin: 0;
+        }
+
+        .content {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            flex-grow: 1;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+        }
+
+        .content img {
+            max-width: 50%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        .github-link {
+            margin-top: 20px;
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        .github-link:hover {
+            text-decoration: underline;
+        }
+
+        .scroll-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            background-color: #0066cc;
+            color: white;
+            font-size: 24px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .scroll-btn:hover {
+            background-color: #0055a5;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>FURKAN YAĞLI YMGK ARTTIRILMIŞ GERÇEKLİK PROJESİ</h1>
+    </div>
+    <div class="content" id="extraContent">
+        <img src="Ekran görüntüsü 2024-12-07 182825.png" alt="AR Projesi Görseli">
+        <a href="https://github.com/210542010/YMGK_Proje" class="github-link" target="_blank">Proje GitHub Sayfası</a>
+    </div>
+
+    <div class="scroll-btn" onclick="toggleContent()">
+        ↑
+    </div>
+
+    <script>
+        function toggleContent() {
+            const content = document.getElementById('extraContent');
+            content.style.display = content.style.display === 'none' || content.style.display === '' ? 'flex' : 'none';
+        }
+    </script>
+</body>
+</html>
