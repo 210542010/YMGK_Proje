@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="duvar" size="5.000000 2.683333" />
+    <ImageTarget name="toplama-karti" size="5.000000 7.695000" />
+    <ImageTarget name="pasta-karti" size="5.000000 7.743644" />
+  </Tracking>
+</QCARConfig>
