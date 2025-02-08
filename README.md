@@ -18,7 +18,7 @@ Proje panosunu inceleyerek geliştirme yolculuğumuza tanık olabilir ve süreci
 
 ## 📄 Dokümantasyon
 Bu proje, tasarım, özellikler ve uygulamanın nasıl çalıştığını anlamanıza yardımcı olacak detaylı dokümantasyonla birlikte gelmektedir.  
-Projeye ait dokümantasyon ve kaynaklara Google Drive üzerinden aşağıdaki linkten erişebilirsiniz:  
+Projeye ait dokümantasyon ve kaynaklara aşağıdaki linkten erişebilirsiniz:  
 [Proje Dokümantasyonu](https://github.com/210542010/YMGK_Proje/tree/main/D%C3%B6k%C3%BCmanlar)
 
 
