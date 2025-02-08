@@ -1,6 +1,6 @@
-# Titanic AR Eğitim Çocuklar İçin
+#  Cake AR Çocuklar İçin
 
-**Titanic AR Eğitim Çocuklar İçin**, özellikle çocuklar için tasarlanmış ilgi çekici ve interaktif bir Artırılmış Gerçeklik (AR) uygulamasıdır. Bu proje, eğitimi sürükleyici AR deneyimleriyle harmanlayarak öğrenmeyi eğlenceli ve interaktif hale getirmeyi amaçlamaktadır. Yazılım Mühendisliği Güncel Konular dersi kapsamında geliştirilen bu proje, tarihi yaratıcı ve eğlenceli AR tabanlı bir yaklaşımla hayat bulduruyor.
+**Cake AR Çocuklar İçin**, özellikle çocuklar için tasarlanmış ilgi çekici ve interaktif bir Artırılmış Gerçeklik (AR) uygulamasıdır. Bu proje, eğitimi sürükleyici AR deneyimleriyle harmanlayarak öğrenmeyi eğlenceli ve interaktif hale getirmeyi amaçlamaktadır. Yazılım Mühendisliği Güncel Konular dersi kapsamında geliştirilen bu proje, tarihi yaratıcı ve eğlenceli AR tabanlı bir yaklaşımla hayat bulduruyor.
 
 ## 🚀 Proje Genel Bakış
 - **Hedef Kitle:** Çocuklar  
