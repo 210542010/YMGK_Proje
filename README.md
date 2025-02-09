@@ -42,4 +42,4 @@ Projeyi indirmek için apk dosyalarını telefonunuza indirmeniz yeterli. Katkı
 Katkı sunmak için projeyi indirmek isterseniz:  
 
 ```sh
-git clone https://github.com/Abandoned-Pirates/PickupGame.git
+git clone https://github.com/210542010/YMGK_Proje.git
