@@ -36,16 +36,6 @@ Aşağıdaki linkten Cake AR APK dosyasını indirebilirsiniz:
 Bu proje, [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisansı kapsamında lisanslanmıştır.  
 Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
-
-## İndirme
-Projeyi indirmek için apk dosyalarını telefonunuza indirmeniz yeterli. Katkı sunmak için, projeyi indirmek isterseniz de;
-Katkı sunmak için projeyi indirmek isterseniz:  
-
-```sh
-git clone https://github.com/210542010/YMGK_Proje.git
-
-
-
 ## Kodlar
 [PickUp Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
 [CakeGame Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
@@ -53,3 +43,13 @@ git clone https://github.com/210542010/YMGK_Proje.git
 
 ## Video
 [Video Linki](https://youtu.be/ksHafA6UTKc)
+
+## İndirme
+Projeyi indirmek için apk dosyalarını telefonunuza indirmeniz yeterli. Katkı sunmak için, projeyi indirmek isterseniz de;
+Katkı sunmak için projeyi indirmek isterseniz:  
+
+```
+git clone https://github.com/210542010/YMGK_Proje.git
+```
+
+
