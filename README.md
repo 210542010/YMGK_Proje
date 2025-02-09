@@ -37,7 +37,7 @@ Bu proje, [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisa
 Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
 
-## İndşrme
+## İndirme
 Projeyi indirmek için apk dosyalarını telefonunuza indirmeniz yeterli. Katkı sunmak için, projeyi indirmek isterseniz de;
 Katkı sunmak için projeyi indirmek isterseniz:  
 
