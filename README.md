@@ -38,7 +38,7 @@ Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
 ## Kodlar
 [PickUp Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
-[CakeGame Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
+[CakeGame Kod]([https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs](https://github.com/210542010/YMGK_Proje/blob/main/main.py))
 
 
 ## Video
