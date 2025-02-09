@@ -43,3 +43,13 @@ Katkı sunmak için projeyi indirmek isterseniz:
 
 ```sh
 git clone https://github.com/210542010/YMGK_Proje.git
+
+
+
+## Kodlar
+[PickUp Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
+[CakeGame Kod](https://github.com/210542010/YMGK_Proje/blob/main/PickupGame-main/Assets/Scripts/ARFeatheredPlaneMeshVisualizer.cs)
+
+
+## Video
+[Video Linki](https://youtu.be/ksHafA6UTKc)
