@@ -30,6 +30,7 @@ Sayfayı incelemek için:
 ## 📥 APK İndir
 Aşağıdaki linkten Cake AR APK dosyasını indirebilirsiniz:  
 [Cake AR APK İndir](https://github.com/210542010/YMGK_Proje/blob/main/CakeeeAR.apk)
+[PickUp APK İndir](https://github.com/210542010/YMGK_Proje/blob/main/AR2.apk)
 
 ## 📄 Lisans
 Bu proje, [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisansı kapsamında lisanslanmıştır.  
